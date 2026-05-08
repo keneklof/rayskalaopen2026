@@ -1,1 +1,12 @@
-
+{
+  "comps": [
+      {
+          "id": "Club",
+          "name": "Rayskala Open 2026-kerho",
+          "short": "Kerho",
+          "task": "https://www.soaringspot.com/en_gb/rayskala-open-2026-rayskala-2026/results/kerholuokka",
+          "color": "#0074D9"
+      }
+  ],
+  "gliders": "https://raw.githubusercontent.com/keneklof/rayskalaopen2026/refs/heads/main/glidersClub"
+}
